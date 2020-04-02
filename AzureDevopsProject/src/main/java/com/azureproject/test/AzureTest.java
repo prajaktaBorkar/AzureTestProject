@@ -1,10 +1,14 @@
 package com.azureproject.test;
 
+
+
+
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
@@ -36,7 +40,32 @@ public class AzureTest {
 //	Verification
 	
 	@Test
-	public void webelement() {
+	public void verifyTitle()
+	{
+		
+		String title = driver.getTitle();
+		System.out.println(title);
+		Assert.assertEquals(title, "Welcome to Jenkins ");
+
+	}
+	
+	@Test
+	public void verifyWelcomeText ()
+	{
+		/*
+		 * CHange in h1 tag text
+		 */
+		String text = driver.findElement(By.xpath("//h1[text()='Welcome to perficient']")).getText();
+
+		if (text.equalsIgnoreCase("Welcome to perficient")) {
+			System.out.println(text);
+		} else {
+			System.out.println("Welcome Text is different");
+		}
+	}
+	
+	@Test
+	public void verifyInformationText() {
 		/*
 		 * CHange in h1 tag text
 		 */
@@ -45,7 +74,7 @@ public class AzureTest {
 		if (text.equalsIgnoreCase("GO CORONA GO")) {
 			System.out.println(text);
 		} else {
-			System.out.println("h1 Tag Text is different");
+			System.out.println("Information Text is different");
 		}
 
 	}

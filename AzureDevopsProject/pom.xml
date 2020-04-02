@@ -57,7 +57,10 @@
             
     		<groupId>com.relevantcodes</groupId>
     		<artifactId>extentreports</artifactId>
-    		<version>2.41.0</version>
+    		<version>3.0.0</version>
+    		<type>jar</type>
+            <scope>system</scope>
+            <systemPath>${pom.basedir}/repository/extentreports-java-3.0.0-SNAPSHOT.jar</systemPath>
         </dependency>
 
 		<dependency>
