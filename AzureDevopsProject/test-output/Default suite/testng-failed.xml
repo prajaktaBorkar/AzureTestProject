@@ -5,12 +5,8 @@
     <classes>
       <class name="com.azureproject.test.AzureTest">
         <methods>
-          <include name="verifyWelcomeText"/>
           <include name="verifyTitle"/>
-          <include name="setUp"/>
-          <include name="verifyInformationText"/>
           <include name="openBrowser"/>
-          <include name="extenttearDown"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.azureproject.test.AzureTest -->

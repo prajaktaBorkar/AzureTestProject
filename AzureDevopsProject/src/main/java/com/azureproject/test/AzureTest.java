@@ -56,12 +56,9 @@ public class AzureTest {
 		 * CHange in h1 tag text
 		 */
 		String text = driver.findElement(By.xpath("//h1[text()='Welcome to perficient']")).getText();
-
-		if (text.equalsIgnoreCase("Welcome to perficient")) {
-			System.out.println(text);
-		} else {
-			System.out.println("Welcome Text is different");
-		}
+		System.out.println(text);
+		Assert.assertEquals(text, "Welcome to perficient");
+		
 	}
 	
 	@Test
