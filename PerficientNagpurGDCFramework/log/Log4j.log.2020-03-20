@@ -1,0 +1,10 @@
+[20/03/20 15:54:42][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/03/20 15:54:42][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/03/20 15:54:42][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/03/20 15:54:47][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/03/20 15:54:47][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/03/20 15:55:11][ERROR][com.perficient.util.LogWebdriverEventListner-38] WebDriver error: Element not found By.xpath: //h1[text()='GO CORONA GO GO']
+[20/03/20 15:55:11][INFO][com.perficient.util.PageManager-797] save snapshot path is:./test-output/errorImages/20205520_035511.png
+[20/03/20 15:55:14][ERROR][com.perficient.util.LogWebdriverEventListner-38] WebDriver error: Element not found By.xpath: //h1[text()='GO CORONA GO GO']
+[20/03/20 15:55:14][INFO][com.perficient.util.TestCaseBase-129] fail
+[20/03/20 15:55:14][INFO][com.perficient.util.TestCaseBase-290] 2020.03.20_15.54 PerficientNagpurGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@62010f5c FAIL chrome

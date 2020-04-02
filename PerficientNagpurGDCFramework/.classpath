@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/aopalliance-repackaged-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/c3p0-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/c3p0-oracle-thin-extras-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/cdi-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/commons-net-3.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/commons-net-examples-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/el-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/extentreports-java-3.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/fluent-hc-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/gimap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/hk2-api-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/hk2-locator-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/hk2-utils-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/javaee-api-5.0-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/javassist-3.22.0-CR2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/javax.inject-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/javax.json.bind-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/javax.json-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/javax.json-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/javax.ws.rs-api-2.1-m09.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jboss-common-jdbc-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jboss-common-jdbc-wrapper-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jersey-hk2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jersey-media-json-binding.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jersey-media-sse.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/json-20160810.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/json-lib-2.1-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/json-path-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/junit-4.13-rc-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/mysql-connector-java-5.1.44-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/poi-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/poi-examples-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/poi-excelant-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/poi-ooxml-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/poi-ooxml-schemas-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/poi-scratchpad-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/selenium-java-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/unirest-java-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/xls_Reader.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/yasson-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kunal.ukande/OneDrive - Perficient, Inc/This PC/Automation Framework/PerficientNagpurGDCFramework/repository/zip4j-1.3.2.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

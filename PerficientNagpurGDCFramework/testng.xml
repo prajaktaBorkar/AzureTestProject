@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Framework Execution" parallel="tests" thread-count="2">
+	
+	<!--Value for browserFlagO can be firfox, chrome, ie, safari, mobileByBrowserStack, mobileByCBT -->
+	<test name="Sample Sign In Web - Firefox">
+		<parameter name="browserFlagO" value="firefox" />
+		<parameter name="runningOnGrid" value="false" />
+		<parameter name="hubHost" value="0" />
+		<parameter name="hubPort" value="0" />
+		<classes>
+			<class name="com.perficient.testCases.SpanxTest" />
+		</classes>
+	</test>
+	
+	<test name="Sample Sign In Web - Google Chrome">
+		<parameter name="browserFlagO" value="chrome" />
+		<parameter name="runningOnGrid" value="false" />
+		<parameter name="hubHost" value="0" />
+		<parameter name="hubPort" value="0" />
+		<classes>
+			<class name="com.perficient.testCases.SpanxTest" />
+		</classes>
+	</test>
+</suite>   

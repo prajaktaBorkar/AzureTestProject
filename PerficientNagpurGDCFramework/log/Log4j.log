@@ -1,0 +1,245 @@
+[20/04/02 01:17:28][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 01:17:28][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 01:17:28][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 01:17:35][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 01:17:35][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 01:18:51][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 01:18:51][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 01:18:51][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 01:18:51][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_01.17 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@36cda2c2 FAIL chrome
+[20/04/02 01:31:25][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 01:31:25][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 01:31:25][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 01:31:25][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 01:31:25][INFO][com.perficient.util.TestCaseBase-182] browserFlag=firefox
+[20/04/02 01:31:25][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 01:31:31][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 01:31:31][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 01:31:42][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 01:31:42][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 01:31:42][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 01:31:42][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_01.31 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@7f106680 FAIL chrome
+[20/04/02 01:31:48][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 01:31:48][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 01:32:07][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 01:32:07][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 01:32:07][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 01:32:07][INFO][com.perficient.util.TestCaseBase-290] null DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@643c7b56 FAIL firefox
+[20/04/02 12:08:51][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 12:08:51][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 12:08:51][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 12:08:57][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 12:08:57][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 12:09:06][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 12:09:06][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 12:09:06][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 12:09:06][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_12.08 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@36cda2c2 FAIL chrome
+[20/04/02 12:12:07][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 12:12:07][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 12:12:07][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 12:12:12][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 12:12:12][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 12:12:18][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 12:12:18][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 12:12:18][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 12:12:18][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_12.12 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@36cda2c2 FAIL chrome
+[20/04/02 12:27:03][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 12:27:03][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 12:27:03][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 12:27:09][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 12:27:09][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 12:27:17][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 12:27:18][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 12:27:18][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 12:27:18][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_12.27 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@36cda2c2 FAIL chrome
+[20/04/02 13:51:57][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 13:51:57][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 13:51:57][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 13:52:02][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 13:52:02][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 13:52:08][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 13:52:08][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 13:52:08][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 13:52:08][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_13.51 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@36cda2c2 FAIL chrome
+[20/04/02 13:53:01][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 13:53:01][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 13:53:01][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 13:53:06][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 13:53:06][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 13:53:11][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 13:53:11][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 13:53:11][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 13:53:11][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 13:53:11][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 13:53:11][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 13:53:11][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 13:53:11][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_13.53 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@7164ca4c FAIL chrome
+[20/04/02 13:53:51][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 13:53:51][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 13:53:51][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 13:53:51][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 13:53:51][INFO][com.perficient.util.TestCaseBase-182] browserFlag=firefox
+[20/04/02 13:53:51][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 13:53:56][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 13:53:56][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 13:54:12][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 13:54:12][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 13:55:04][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 13:55:04][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 13:55:04][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 13:55:09][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 13:55:09][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 13:55:17][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 13:55:17][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 13:55:17][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 13:55:17][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 13:55:17][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 13:55:17][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 13:55:17][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 13:55:17][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_13.55 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@1d3ac898 FAIL chrome
+[20/04/02 14:43:37][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 14:43:37][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 14:43:37][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 14:43:56][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 14:43:56][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 14:43:56][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 14:44:01][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 14:44:01][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 14:44:12][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 14:44:12][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 14:44:12][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 14:44:12][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 14:44:12][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 14:44:12][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_14.43 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@46b61c56 FAIL chrome
+[20/04/02 14:48:21][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 14:48:21][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 14:48:21][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 14:48:25][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 14:48:26][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 14:48:37][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 14:48:37][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 14:48:37][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 14:48:37][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 14:48:37][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 14:48:37][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_14.48 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@68be8808 FAIL chrome
+[20/04/02 18:00:26][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 18:00:26][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 18:00:26][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 18:00:31][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 18:00:31][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 18:00:31][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 18:00:31][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 18:00:31][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_18.00 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@1b45c0e FAIL chrome
+[20/04/02 18:12:26][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 18:12:26][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 18:12:26][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 18:12:31][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 18:12:31][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 18:14:00][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 18:14:00][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 18:14:00][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 18:14:00][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 18:14:00][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 18:14:00][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_18.12 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@4ff8d125 FAIL chrome
+[20/04/02 19:01:14][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 19:01:14][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 19:01:14][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 19:01:18][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 19:01:19][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 19:01:29][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:01:29][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 19:01:29][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:01:29][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 19:01:29][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:01:29][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_19.01 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@5d8bafa9 FAIL chrome
+[20/04/02 19:38:23][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 19:38:23][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 19:38:23][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 19:38:28][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 19:38:28][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 19:38:33][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:38:34][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 19:38:34][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:38:34][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 19:38:34][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:38:34][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_19.38 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@55493582 FAIL chrome
+[20/04/02 19:41:21][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 19:41:21][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 19:41:21][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 19:41:31][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 19:41:32][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 19:41:53][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:41:53][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 19:41:53][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:41:53][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 19:41:53][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:41:53][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_19.41 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@55493582 FAIL chrome
+[20/04/02 19:53:51][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 19:53:51][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 19:53:51][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 19:53:56][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 19:53:56][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 19:54:00][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:54:00][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 19:54:00][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:54:00][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 19:54:00][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:54:00][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_19.53 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@4426bff1 FAIL chrome
+[20/04/02 19:54:22][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 19:54:22][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 19:54:22][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 19:54:27][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 19:54:27][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 19:54:32][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:54:32][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 19:54:32][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:54:32][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 19:54:32][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 19:54:32][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_19.54 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@4426bff1 FAIL chrome
+[20/04/02 20:10:18][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 20:10:18][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 20:10:18][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 20:10:23][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 20:10:23][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 20:10:28][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 20:10:28][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 20:10:28][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 20:10:28][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 20:10:28][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 20:10:28][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 20:10:28][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 20:10:28][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_20.10 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@73194df FAIL chrome
+[20/04/02 20:11:10][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 20:11:10][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 20:11:10][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 20:11:14][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 20:11:15][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 20:11:20][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 20:11:20][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 20:11:20][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='Welcome to perficient']
+[20/04/02 20:11:20][INFO][com.perficient.util.TestCaseBase-129] fail
+[20/04/02 20:11:20][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 20:11:20][INFO][com.perficient.util.LogWebdriverEventListner-63] WebDriver found By.xpath: //h1[text()='GO CORONA GO']
+[20/04/02 20:11:20][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 20:11:20][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_20.11 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@ee86bcb FAIL chrome
+[20/04/02 21:33:26][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 21:33:26][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 21:33:26][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 21:33:32][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 21:33:32][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 21:33:43][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 21:33:43][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_21.33 DemoPerficientGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@77102b91 FAIL chrome
+[20/04/02 22:00:39][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 22:00:39][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 22:00:39][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 22:00:45][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 22:00:46][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 22:00:49][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 22:00:49][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_22.00 PerficientNagpurGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@75d2da2d FAIL chrome
+[20/04/02 22:03:09][INFO][com.perficient.util.TestCaseBase-99] running TEST Case:com.perficient.testCases.AzureDevopsTest
+[20/04/02 22:03:09][INFO][com.perficient.util.TestCaseBase-181] onGrid=false
+[20/04/02 22:03:09][INFO][com.perficient.util.TestCaseBase-182] browserFlag=chrome
+[20/04/02 22:03:15][INFO][com.perficient.util.TestCaseBase-413] Setting...filename=testdata_AzureDevopsTest.properties
+[20/04/02 22:03:15][INFO][com.perficient.util.LogWebdriverEventListner-20] WebDriver navigating to:'https://my-web-app1.azurewebsites.net/mvn-hello-world/'
+[20/04/02 22:03:26][INFO][com.perficient.util.TestCaseBase-129] pass
+[20/04/02 22:03:26][INFO][com.perficient.util.TestCaseBase-290] 2020.04.02_22.03 PerficientNagpurGDCFramework  testCases AzureDevopsTest [Ljava.lang.String;@75d2da2d FAIL chrome
