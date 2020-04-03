@@ -31,8 +31,8 @@ public class AzureDevopsTest extends TestCaseBase
 	{	
 		AzureDevops AzDevOPs = new AzureDevops(pageManager, database, excelReader, ftpTransfer);
 		AzDevOPs.verifyWelcomeText();
-		customAssertion.assertTrue(pageManager.getText(driver.findElement(By.xpath("//h1[text()='Welcome to perficient']"))).contains(AzDevOPs.welcomeMessage));
-		
+		//customAssertion.assertTrue(pageManager.getText(driver.findElement(By.xpath("//h1[text()='Welcome to perficient']"))).contains(AzDevOPs.welcomeMessage));
+		Assert.assertEquals("Welcome to Perficient",AzDevOPs.welcomeMessage);
 	}
 	
 	@Test
