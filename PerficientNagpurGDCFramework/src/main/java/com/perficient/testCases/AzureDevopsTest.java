@@ -25,24 +25,24 @@ public class AzureDevopsTest extends TestCaseBase
 		customAssertion.assertTrue(pageManager.getTitle().contains(AzDevOPs.TITLE1));
 				
 	}
-//	
-//	@Test
-//	public void Azure01() throws Exception
-//	{	
-//		AzureDevops AzDevOPs = new AzureDevops(pageManager, database, excelReader, ftpTransfer);
-//		AzDevOPs.verifyWelcomeText();
-//		customAssertion.assertTrue(pageManager.getText(driver.findElement(By.xpath("//h1[text()='Welcome to perficient']"))).contains(AzDevOPs.welcomeMessage));
-//		
-//	}
-//	
-//	@Test
-//	public void Azure02() throws Exception
-//	{
-//		AzureDevops AzDevOPs = new AzureDevops(pageManager, database, excelReader, ftpTransfer);
-//		AzDevOPs.verifyInformationText();
-//		customAssertion.assertTrue(pageManager.getText(driver.findElement(By.xpath("//h1[text()='GO CORONA GO']"))).contains(AzDevOPs.InformationText));
-//		
-//	}
+	
+	@Test
+	public void Azure01() throws Exception
+	{	
+		AzureDevops AzDevOPs = new AzureDevops(pageManager, database, excelReader, ftpTransfer);
+		AzDevOPs.verifyWelcomeText();
+		customAssertion.assertTrue(pageManager.getText(driver.findElement(By.xpath("//h1[text()='Welcome to perficient']"))).contains(AzDevOPs.welcomeMessage));
+		
+	}
+	
+	@Test
+	public void Azure02() throws Exception
+	{
+		AzureDevops AzDevOPs = new AzureDevops(pageManager, database, excelReader, ftpTransfer);
+		AzDevOPs.verifyInformationText();
+		customAssertion.assertTrue(pageManager.getText(driver.findElement(By.xpath("//h1[text()='GO CORONA GO']"))).contains(AzDevOPs.InformationText));
+		
+	}
 	
 	
 	
