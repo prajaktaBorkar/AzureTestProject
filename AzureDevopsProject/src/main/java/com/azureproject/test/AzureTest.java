@@ -67,21 +67,22 @@ public class AzureTest {
 		}
 	}
 	
-// 	@Test
-// 	public void verifyInformationText() {
-// 		/*
-// 		 * CHange in h1 tag text
-// 		 */
-// // 		String text = driver.findElement(By.xpath("//h1[text()='GO CORONA GO']")).getText();
+	@Test
+	public void verifyInformationText() {
+		/*
+		 * CHange in h1 tag text
+		 */
+// 		String text = driver.findElement(By.xpath("//h1[text()='GO CORONA GO']")).getText();
+		String text = driver.findElement(By.id("gcg")).getAttribute("innerHTML");
 		
 
-// 		if (text.equalsIgnoreCase("GO CORONA GO")) {
-// 			System.out.println(text);
-// 		} else {
-// 			System.out.println("Information Text is different");
-// 		}
+		if (text.equalsIgnoreCase("GO CORONA GO")) {
+			System.out.println(text);
+		} else {
+			System.out.println("Information Text is different");
+		}
 
-// 	}
+	}
 
 	
 //	Close Browser
