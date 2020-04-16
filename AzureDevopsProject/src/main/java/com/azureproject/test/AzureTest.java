@@ -55,9 +55,8 @@ public class AzureTest {
 		/*
 		 * CHange in h1 tag text
 		 */
-		String text = driver.findElement(By.xpath("//h1[text()='Welcome to perficient']"));
-		sleep(1000);
-		text.getText();				 
+		String text = driver.findElement(By.xpath("//h1[text()='Welcome to perficient']")).getText();
+					 
 
 
 		if (text.equalsIgnoreCase("Welcome to perficient")) {
@@ -72,9 +71,8 @@ public class AzureTest {
 		/*
 		 * CHange in h1 tag text
 		 */
-		String text = driver.findElement(By.xpath("//h1[text()='GO CORONA GO']"));
-		sleep(1000);
-		text.getText();	
+		String text = driver.findElement(By.xpath("//h1[text()='GO CORONA GO']")).getText();
+		
 
 		if (text.equalsIgnoreCase("GO CORONA GO")) {
 			System.out.println(text);
