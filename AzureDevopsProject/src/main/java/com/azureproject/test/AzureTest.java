@@ -45,7 +45,7 @@ public class AzureTest {
 		
 		String title = driver.getTitle();
 		System.out.println(title);
-		Assert.assertEquals(title, "Welcome to Jenkins11");
+		Assert.assertEquals(title, "Welcome to Jenkins");
 
 	}
 	
@@ -55,7 +55,9 @@ public class AzureTest {
 		/*
 		 * CHange in h1 tag text
 		 */
-		String text = driver.findElement(By.xpath("//h1[text()='Welcome to perficient']")).getText();
+		String text = driver.findElement(By.xpath("//h1[text()='Welcome to perficient']");
+		sleep(1000);
+		text.getText();				 
 
 
 		if (text.equalsIgnoreCase("Welcome to perficient")) {
@@ -70,7 +72,9 @@ public class AzureTest {
 		/*
 		 * CHange in h1 tag text
 		 */
-		String text = driver.findElement(By.xpath("//h1[text()='GO CORONA GO']")).getText();
+		String text = driver.findElement(By.xpath("//h1[text()='GO CORONA GO']"));
+		sleep(1000);
+		text.getText();	
 
 		if (text.equalsIgnoreCase("GO CORONA GO")) {
 			System.out.println(text);
