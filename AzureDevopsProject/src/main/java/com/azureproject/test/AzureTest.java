@@ -28,7 +28,7 @@ public class AzureTest {
 		
 //		 Change in URL
 		 
-		driver.get("https://my-web-app1.azurewebsites.net/mvn-hello-world/");
+		driver.get("http://3.22.169.214:8080/");
 		
 		driver.manage().window().maximize();
 
@@ -45,7 +45,7 @@ public class AzureTest {
 		
 		String title = driver.getTitle();
 		System.out.println(title);
-		Assert.assertEquals(title, "Welcome to Jenkins ");
+		Assert.assertEquals(title, "Welcome to Jenkins11");
 
 	}
 	
