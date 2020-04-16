@@ -55,7 +55,9 @@ public class AzureTest {
 		/*
 		 * CHange in h1 tag text
 		 */
-		String text = driver.findElement(By.xpath("//h1[text()='Welcome to perficient']")).getText();
+		String text = driver.findElement(By.xpath("//h1[text()='Welcome to perficient']"));
+		sleep(1000);
+		text.getText();
 
 		if (text.equalsIgnoreCase("Welcome to perficient")) {
 			System.out.println(text);
